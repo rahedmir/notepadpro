@@ -1,0 +1,44 @@
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Release\Notepad Pro.exe.config
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\obj\Release\Notepad Pro.exe
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\obj\Release\Notepad Pro.xml
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\obj\Release\Notepad Pro.pdb
+C:\Users\Mir\Desktop\Notepad Pro\MiniWord\bin\Release\Notepad Pro.exe.config
+C:\Users\Mir\Desktop\Notepad Pro\MiniWord\obj\Release\Notepad Pro.exe
+C:\Users\Mir\Desktop\Notepad Pro\MiniWord\obj\Release\Notepad Pro.xml
+C:\Users\Mir\Desktop\Notepad Pro\MiniWord\obj\Release\Notepad Pro.pdb
+C:\Users\Mir\Desktop\Notepad Pro\MiniWord\bin\Release\Notepad Pro.exe.manifest
+C:\Users\Mir\Desktop\Notepad Pro\MiniWord\bin\Release\Notepad Pro.application
+C:\Users\Mir\Desktop\Notepad Pro\MiniWord\bin\Release\Notepad Pro.exe
+C:\Users\Mir\Desktop\Notepad Pro\MiniWord\bin\Release\Notepad Pro.pdb
+C:\Users\Mir\Desktop\Notepad Pro\MiniWord\bin\Release\Notepad Pro.xml
+C:\Users\Mir\Desktop\Notepad Pro\MiniWord\obj\Release\editpad.frmmain.resources
+C:\Users\Mir\Desktop\Notepad Pro\MiniWord\obj\Release\editpad.frmAbout.resources
+C:\Users\Mir\Desktop\Notepad Pro\MiniWord\obj\Release\editpad.frmSymbols.resources
+C:\Users\Mir\Desktop\Notepad Pro\MiniWord\obj\Release\editpad.frmCalendar.resources
+C:\Users\Mir\Desktop\Notepad Pro\MiniWord\obj\Release\editpad.frmfind.resources
+C:\Users\Mir\Desktop\Notepad Pro\MiniWord\obj\Release\editpad.frmreplace.resources
+C:\Users\Mir\Desktop\Notepad Pro\MiniWord\obj\Release\editpad.Resources.resources
+C:\Users\Mir\Desktop\Notepad Pro\MiniWord\obj\Release\editpad.SplashScreen.resources
+C:\Users\Mir\Desktop\Notepad Pro\MiniWord\obj\Release\Notepad.vbproj.GenerateResource.Cache
+C:\Users\Mir\Desktop\Notepad Pro\MiniWord\obj\Release\Notepad Pro.exe.manifest
+C:\Users\Mir\Desktop\Notepad Pro\MiniWord\obj\Release\Notepad Pro.application
+C:\Users\WIDDOWS\Desktop\Notepad Pro\MiniWord\bin\Release\Notepad Pro.exe.config
+C:\Users\WIDDOWS\Desktop\Notepad Pro\MiniWord\obj\Release\Notepad Pro.exe
+C:\Users\WIDDOWS\Desktop\Notepad Pro\MiniWord\obj\Release\Notepad Pro.xml
+C:\Users\WIDDOWS\Desktop\Notepad Pro\MiniWord\obj\Release\Notepad Pro.pdb
+C:\Users\WIDDOWS\Desktop\Notepad Pro\MiniWord\bin\Release\Notepad Pro.exe.manifest
+C:\Users\WIDDOWS\Desktop\Notepad Pro\MiniWord\bin\Release\Notepad Pro.application
+C:\Users\WIDDOWS\Desktop\Notepad Pro\MiniWord\bin\Release\Notepad Pro.exe
+C:\Users\WIDDOWS\Desktop\Notepad Pro\MiniWord\bin\Release\Notepad Pro.pdb
+C:\Users\WIDDOWS\Desktop\Notepad Pro\MiniWord\bin\Release\Notepad Pro.xml
+C:\Users\WIDDOWS\Desktop\Notepad Pro\MiniWord\obj\Release\editpad.frmmain.resources
+C:\Users\WIDDOWS\Desktop\Notepad Pro\MiniWord\obj\Release\editpad.frmAbout.resources
+C:\Users\WIDDOWS\Desktop\Notepad Pro\MiniWord\obj\Release\editpad.frmSymbols.resources
+C:\Users\WIDDOWS\Desktop\Notepad Pro\MiniWord\obj\Release\editpad.frmCalendar.resources
+C:\Users\WIDDOWS\Desktop\Notepad Pro\MiniWord\obj\Release\editpad.frmfind.resources
+C:\Users\WIDDOWS\Desktop\Notepad Pro\MiniWord\obj\Release\editpad.frmreplace.resources
+C:\Users\WIDDOWS\Desktop\Notepad Pro\MiniWord\obj\Release\editpad.Resources.resources
+C:\Users\WIDDOWS\Desktop\Notepad Pro\MiniWord\obj\Release\editpad.SplashScreen.resources
+C:\Users\WIDDOWS\Desktop\Notepad Pro\MiniWord\obj\Release\Notepad.vbproj.GenerateResource.Cache
+C:\Users\WIDDOWS\Desktop\Notepad Pro\MiniWord\obj\Release\Notepad Pro.exe.manifest
+C:\Users\WIDDOWS\Desktop\Notepad Pro\MiniWord\obj\Release\Notepad Pro.application
