@@ -1,8 +1,6 @@
 # Notepad Pro
 A text editor application for Windows computers
 
-(Source code available in the <a href="./Notepad Pro.rar"> Notepad Pro.rar </a>folder)
-
 <img src="images/Notepad Pro_Text.PNG" height="80%" width="80%">
 
 <a href="https://notepadpro.github.io/" target="_blank"> Website </a>
