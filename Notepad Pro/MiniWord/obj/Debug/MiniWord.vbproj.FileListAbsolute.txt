@@ -1,0 +1,259 @@
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\MiniWord.exe.config
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\MiniWord.exe
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\MiniWord.pdb
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\MiniWord.xml
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\obj\Debug\MiniWord.Resources.resources
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\obj\Debug\MiniWord.vbproj.GenerateResource.Cache
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\obj\Debug\MiniWord.exe
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\obj\Debug\MiniWord.xml
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\obj\Debug\MiniWord.pdb
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\obj\Debug\MiniWord.frmmain.resources
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\obj\Debug\MiniWord.vbprojResolveAssemblyReference.cache
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\obj\Debug\MiniWord.frmfind.resources
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\obj\Debug\MiniWord.frmreplace.resources
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\obj\Debug\MiniWord.Form2.resources
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\obj\Debug\MiniWord.Form3.resources
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\obj\Debug\MiniWord.Form4.resources
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\MiniWord.exe.manifest
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\MiniWord.application
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\obj\Debug\MiniWord.exe.manifest
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\obj\Debug\MiniWord.application
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\a ball.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\a body part.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\a bone.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\a golf ball.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\a hole.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\a horse.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\a liquid.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\a metal.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\a musical instrument.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\a person.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\a place.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\a shoe.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\a string instrument.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\a substance.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\a target.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\accounting.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\alcohol.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\american football.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\an animal.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\an image.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\an organ.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\ancient greece.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\and coins in particular.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\animals.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\architecture.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\art.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\as a bomb.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\as a judge.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\as a piece of machinery.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\as in a meeting.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\as on a ship.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\as property.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\as water.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\astrology.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\baseball.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\basketball.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\bible.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\biology.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\board games.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\born in america.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\born in austria.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\born in canada.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\born in england.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\born in france.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\born in germany.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\born in hungary.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\born in ireland.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\born in new zealand.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\born in poland.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\born in russia.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\born in scotland.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\born in the united states.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\botany.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\boxing.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\bridge.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\british.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\business.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\card games.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\cattle.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\chemistry.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\chess.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\christian theology.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\christianity.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\civil law.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\clothes.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\color.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\computer science.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\computing.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\cricket.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\criminal law.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\data.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\dna or rna.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\documents.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\eggs.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\electronic data.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\electronics.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\especially a bacterium.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\especially a molar tooth.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\especially a piano duet.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\especially alcohol.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\especially blood.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\especially by nuclear weapons.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\especially cattle.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\especially dinner.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\especially in a private home.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\especially in religion.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\especially language.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\especially money.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\especially of promises or contracts.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\especially of the bible.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\especially of wood.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\especially water.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\fencing.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\film.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\food.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\football.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\game.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\games.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\genetics.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\golf.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\great britain.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\greek mythology.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\heraldry.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\hinduism and buddhism.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\hinduism.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\horseshoes.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\ice hockey.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\images or sounds.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\in india.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\independent of sex differences.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\information.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\islam.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\jewish folklore.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\judaism.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\law.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\light or sound.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\literary.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\mathematics.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\meat.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\mechanics.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\medicine.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\metals.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\microbiology.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\military personnel.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\military.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\money.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\music.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\nautical.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\neuroscience.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\new testament.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\norse mythology.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of a baseball.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of a bed.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of a liquid.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of a musical instrument.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of a nuclear reaction.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of a person.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of a sailing vessel.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of a ship or plane.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of a specimen for study under a microscope.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of a substance.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of an organ or body part.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of animals.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of birds.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of champagne.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of clothing.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of coffee.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of color.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of drugs.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of flora or fauna.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of fluids.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of hair or clothing.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of language.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of light.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of limbs and feet.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of meat.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of motor vehicles.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of pages of a book.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of persons.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of plant or animal.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of plants and shrubs.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of plants.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of real estate.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of securities.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of sleep.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of soil.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of sound.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of sounds.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of speech sounds.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of speech.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of the moon.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of time.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of weapons.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of weather or climate.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of weather.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of winds.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of wine.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\of wood.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\old testament.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\or animal.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\or any sound resembling this.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\or other liquid.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\or sexual relations with.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\people.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\person or animal.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\photography.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\physics and chemistry.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\physics.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\plants and animals.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\printing.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\property.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\radiology.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\religion.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\roman catholic church.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\roman mythology.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\rugby.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\sound.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\spoken or written.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\sport.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\sports.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\statistics.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\substances.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\surgery.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\technology.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\tennis.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\the lips.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\united kingdom.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\used especially of machinery.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\used especially of persons.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\used of color.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\used of grass or vegetation.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\used of metals.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\used of persons or behaviors.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\used of persons or the military.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\used of persons.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\used of soil.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\used of the military.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\used of timepieces.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\usually a bell.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\usually alcoholic.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\usually cylindrical.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\usually in water.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\usually made of wood.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\usually metal.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\usually red.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\usually white.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\usually written.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\water.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\weapons.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\wood or metal.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def\wood.png
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\dic.dic
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\def.def
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\syn.syn
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\i00SpellCheck.exe
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\i00BindingList.exe
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\i00SpellCheck.pdb
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\bin\Debug\i00BindingList.pdb
+C:\Users\Mir\Desktop\Visual Studio\MiniWord\MiniWord\obj\Debug\MiniWord.SplashScreen1.resources
